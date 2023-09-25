@@ -272,7 +272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fc4c5477ac1f14478a0b9320f6dcd1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scaleThreshold: 0.2
+  scaleThreshold: 0.6
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -592,7 +592,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   circlesPrefab: {fileID: 1421885332420937243, guid: d49c58487a7ca7a4d9a6ffc2dabe17e0, type: 3}
-  numberOfCircles: 400
+  numberOfCircles: 2000
   minXPosition: -98
   maxXPosition: 98
   minYPosition: -98
